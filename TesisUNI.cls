@@ -824,7 +824,7 @@
 \lhead[]{\textit{\scriptsize UNIVERSIDAD NACIONAL DE INGENIERÍA \\ \scriptsize{\@facultad}}}
 \rhead[]{\textit{\scriptsize \leftmark}}
 
-\lfoot[]{\textit{\scriptsize {\@title} \\ Bach. {\@author}}}
+\lfoot[]{\textit{\scriptsize {\@title} \\ Lic. {\@author}}}
 \rfoot[]{\small \thepage}
 %---------------------------------------
 
@@ -839,7 +839,7 @@
 \rhead[]{\textit{\scriptsize \leftmark}}
 
 
-\lfoot[]{\textit{\scriptsize {\@title} \\ Bach. {\@author}}}
+\lfoot[]{\textit{\scriptsize {\@title} \\ Lic. {\@author}}}
 \rfoot[]{\small \thepage}
 }
 %----------------------------------------------
