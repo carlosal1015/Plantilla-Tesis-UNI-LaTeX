@@ -789,7 +789,11 @@
 \newcommand{\@asesor}{}
 \newcommand{\asesor}[1]{\renewcommand{\@asesor}{#1}}
 
-% Redefiniendo ASESOR
+% Redefiniendo ASESOR EXTERNO
+\newcommand{\@asesorexterno}{}
+\newcommand{\asesorexterno}[1]{\renewcommand{\@asesorexterno}{#1}}
+
+% Redefiniendo AÑO
 \newcommand{\@yyearr}{}
 \newcommand{\yyearr}[1]{\renewcommand{\@yyearr}{#1}}
 
